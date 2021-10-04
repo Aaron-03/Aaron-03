@@ -1,0 +1,3 @@
+- 👋 Hi there! Welcome to my github space.
+- 💞️ I’m @Aaron-03, full stack web developer and systems analyst.
+- 👀 I'm interested in business and motivated to learn daily.
